@@ -1,6 +1,5 @@
-import std.stdio;
+import ctag;
 
-void main()
-{
-	writeln("Edit source/app.d to start your project.");
+void main() {
+	scanBooks("/home/kavis/google-drive/New/Books");
 }
