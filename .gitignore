@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+categorizer.so
+categorizer.dylib
+categorizer.dll
+categorizer.a
+categorizer.lib
+categorizer-test-*
+*.exe
+*.o
+*.obj
+*.lst
